@@ -22,7 +22,7 @@ This project presents an interactive HR Analytics Dashboard developed using Tabl
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Key Insights
 
