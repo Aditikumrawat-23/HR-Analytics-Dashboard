@@ -28,6 +28,7 @@ This project presents an interactive HR Analytics Dashboard developed using Tabl
 
 View the interactive Tableau dashboard here:
 https://public.tableau.com/app/profile/aditi.kumrawat/viz/Project1-HRAnalyticsDashboard1/Story1?publish=yes
+
 https://public.tableau.com/app/profile/aditi.kumrawat/viz/Project1-HRAnalyticsDashboard1/HRAnalyticsDashboard
 
 ## Key Insights
